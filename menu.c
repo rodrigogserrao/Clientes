@@ -9,6 +9,8 @@ int main()
 	while(test)
 	{
 		//system("CLS");
+		//system fora de uso até inclusão de funções para retorno
+		 
 		printf("*********************************************************************************************\n");
 		printf("|                           M E N U    D E    C L I E N T E S                               |\n");
 		printf("| ----------------------------------------------------------------------------------------- |\n");
